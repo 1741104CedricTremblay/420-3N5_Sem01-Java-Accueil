@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.trambles.AppTest" time="0.022" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="gnome"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/media/sedorikku/WalkingByte/Ecole/04-E-2022-Pre_cours_Prg3/Programmation3/Semaines/Sem01-Java_Accueil_Intro/Exercices/Helloworld/Hello/target/test-classes:/media/sedorikku/WalkingByte/Ecole/04-E-2022-Pre_cours_Prg3/Programmation3/Semaines/Sem01-Java_Accueil_Intro/Exercices/Helloworld/Hello/target/classes:/home/sedorikku/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar:/home/sedorikku/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/sedorikku/.m2/repository/org/jsoup/jsoup/1.15.3-SNAPSHOT/jsoup-1.15.3-SNAPSHOT.jar:"/>
+    <property name="java.vm.vendor" value="Amazon.com Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Linux"/>
+    <property name="user.country" value="CA"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-1.8.0-amazon-corretto/jre/lib/amd64"/>
+    <property name="sun.java.command" value="/media/sedorikku/WalkingByte/Ecole/04-E-2022-Pre_cours_Prg3/Programmation3/Semaines/Sem01-Java_Accueil_Intro/Exercices/Helloworld/Hello/target/surefire/surefirebooter7430199322636201979.jar /media/sedorikku/WalkingByte/Ecole/04-E-2022-Pre_cours_Prg3/Programmation3/Semaines/Sem01-Java_Accueil_Intro/Exercices/Helloworld/Hello/target/surefire 2022-07-07T21-54-28_066-jvmRun1 surefire2158578739416834039tmp surefire_01519923301778285740tmp"/>
+    <property name="surefire.test.class.path" value="/media/sedorikku/WalkingByte/Ecole/04-E-2022-Pre_cours_Prg3/Programmation3/Semaines/Sem01-Java_Accueil_Intro/Exercices/Helloworld/Hello/target/test-classes:/media/sedorikku/WalkingByte/Ecole/04-E-2022-Pre_cours_Prg3/Programmation3/Semaines/Sem01-Java_Accueil_Intro/Exercices/Helloworld/Hello/target/classes:/home/sedorikku/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar:/home/sedorikku/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/sedorikku/.m2/repository/org/jsoup/jsoup/1.15.3-SNAPSHOT/jsoup-1.15.3-SNAPSHOT.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/home/sedorikku"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="/usr/lib/jvm/java-1.8.0-amazon-corretto/jre"/>
+    <property name="basedir" value="/media/sedorikku/WalkingByte/Ecole/04-E-2022-Pre_cours_Prg3/Programmation3/Semaines/Sem01-Java_Accueil_Intro/Exercices/Helloworld/Hello"/>
+    <property name="file.separator" value="/"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/media/sedorikku/WalkingByte/Ecole/04-E-2022-Pre_cours_Prg3/Programmation3/Semaines/Sem01-Java_Accueil_Intro/Exercices/Helloworld/Hello/target/surefire/surefirebooter7430199322636201979.jar"/>
+    <property name="sun.boot.class.path" value="/usr/lib/jvm/java-1.8.0-amazon-corretto/jre/lib/resources.jar:/usr/lib/jvm/java-1.8.0-amazon-corretto/jre/lib/rt.jar:/usr/lib/jvm/java-1.8.0-amazon-corretto/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-1.8.0-amazon-corretto/jre/lib/jsse.jar:/usr/lib/jvm/java-1.8.0-amazon-corretto/jre/lib/jce.jar:/usr/lib/jvm/java-1.8.0-amazon-corretto/jre/lib/charsets.jar:/usr/lib/jvm/java-1.8.0-amazon-corretto/jre/lib/jfr.jar:/usr/lib/jvm/java-1.8.0-amazon-corretto/jre/classes"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_332-b08"/>
+    <property name="user.name" value="sedorikku"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="5.15.0-40-generic"/>
+    <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-1.8.0-amazon-corretto/jre/lib/endorsed"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/home/sedorikku/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-8/issues/"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="idea.version" value="2022.1.3"/>
+    <property name="java.version" value="1.8.0_332"/>
+    <property name="user.dir" value="/media/sedorikku/WalkingByte/Ecole/04-E-2022-Pre_cours_Prg3/Programmation3/Semaines/Sem01-Java_Accueil_Intro/Exercices/Helloworld/Hello"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Amazon.com Inc."/>
+    <property name="java.vm.version" value="25.332-b08"/>
+    <property name="java.ext.dirs" value="/usr/lib/jvm/java-1.8.0-amazon-corretto/jre/lib/ext:/usr/java/packages/lib/ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="org.trambles.AppTest" time="0.002"/>
+</testsuite>

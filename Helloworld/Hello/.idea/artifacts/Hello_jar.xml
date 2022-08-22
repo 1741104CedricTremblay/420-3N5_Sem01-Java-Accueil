@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Hello:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Hello_jar</output-path>
+    <root id="archive" name="Hello.jar">
+      <element id="module-output" name="Hello" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.15.3-SNAPSHOT/jsoup-1.15.3-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: junit:junit:4.13.2" />
+    </root>
+  </artifact>
+</component>
